@@ -42,8 +42,14 @@ My two favorite things in the world are dogs 🐶 and nature 🌿 and you'll usu
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   
-
-
-
- 
 </div>
+<br></br>
+  <h2 align="center">My latest projects</h2>
+  <div align="center">
+<p> 🍹 An encyclopedia of cocktail's recipes >>> <a href="https://cocktail-parade.vercel.app/">Cocktail Parade</a> </p>
+<p> 🐦 My clone version of Twitter >>> <a href="https://my-twitter-clone-six.vercel.app/">Twitter Clone</a> </p>
+<p> 🌎 A little travel application using React Routing >>> <a href="https://around-the-world-vite.vercel.app/">Around the World</a> <p/>
+<p> 💯 A list of users fetched through external API >>> <a href="https://win-points.vercel.app/">Win Points</a> </p>
+  
+  
+  </div>
