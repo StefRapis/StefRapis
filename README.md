@@ -9,6 +9,9 @@ I'm a creative person who's passionate about art, travel, nature, and tech.
 Over the past year, I've been diving head-first into coding and the world of web development.
 I believe in the power of teamwork and determination, and I'm always down to jam on new projects with peeps who feel the same.
 
+  
+-📍 Based in Sicily, Italy
+  <br>
 -⚡ Fun fact: 
 My two favorite things in the world are dogs 🐶 and nature 🌿 and you'll usually find me out and about with my trusty laptop, either coding or soaking up some vitamin D.
   
