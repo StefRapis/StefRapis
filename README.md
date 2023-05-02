@@ -49,11 +49,15 @@ My two favorite things in the world are dogs 🐶 and nature 🌿 and you'll usu
 <br></br>
   <h2 align="center">My latest projects</h2>
   <div align="center">
-<p> 🎟️ Bootcamp's final Project >>> <a href="https://project-cb6-terence-hill.vercel.app/">EventHub</a> | <a href="https://github.com/casiimir/project-cb6-terence-hill">GitHub</a></p>
-<p> 🍹 An encyclopedia of cocktail's recipes >>> <a href="https://cocktail-parade.vercel.app/">Cocktail Parade</a> </p>
-<p> 🐦 My clone version of Twitter >>> <a href="https://my-twitter-clone-six.vercel.app/">Twitter Clone</a> </p>
-<p> 🌎 A little travel application using React Routing >>> <a href="https://around-the-world-vite.vercel.app/">Around the World</a> <p/>
-<p> 💯 A list of users fetched through external API >>> <a href="https://win-points.vercel.app/">Win Points</a> </p>
+<p> 🎟️ Bootcamp's final Project | Next.Js. >>> <a href="https://project-cb6-terence-hill.vercel.app/">EventHub</a> | <a href="https://github.com/casiimir/project-cb6-terence-hill">GitHub</a></p>
+<p> 🍹 An encyclopedia of cocktail's recipes | React.Js. >>> <a href="https://cocktail-parade.vercel.app/">Cocktail Parade</a> </p>
+<p> 🐦 My clone version of Twitter | React.Js. >>> <a href="https://my-twitter-clone-six.vercel.app/">Twitter Clone</a> </p>
+<p> 🌎 A little travel application using React Routing | React.Js. >>> <a href="https://around-the-world-vite.vercel.app/">Around the World</a> <p/>
+<p> 💯 A list of users fetched through external API | Vanilla Js. >>> <a href="https://win-points.vercel.app/">Win Points</a> </p>
+<p> 🎞️ Netflix inspired application | Vanilla Js. >>> <a href="https://live-stream-six.vercel.app/">Live Stream</a> </p>
+    
+    
+
   
   
   </div>
