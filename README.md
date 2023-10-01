@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Stefania, a Front-end Developer.</h2>
+<h2 align="center">Hi there 👋 I'm Stefania.</h2>
 
 <div style='display:flex, flex-direction:column, justify-content:center'>
 
